@@ -257,14 +257,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Streamlit**: Interactive web application framework
 - **Plotly**: Data visualization library
 
-## 📞 Support
-
-For support and questions:
-
-1. Check the troubleshooting section above
-2. Review the code comments for detailed explanations
-3. Create an issue in the repository for bugs or feature requests
-
----
-
-**Built with ❤️ using AI agents for construction planning**
