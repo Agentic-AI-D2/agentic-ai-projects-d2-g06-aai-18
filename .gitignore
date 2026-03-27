@@ -1,0 +1,61 @@
+# 🔐 Environment variables (VERY IMPORTANT)
+.env
+.env.*
+*.env
+
+# 🐍 Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 📦 Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# 🧪 Testing & coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 🧠 IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 📁 OS files
+.DS_Store
+Thumbs.db
+
+# 📦 Build / distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# 📝 Logs
+*.log
+
+# 🔑 Secrets / keys
+*.pem
+*.key
+
+# 🧰 Streamlit config & cache
+.streamlit/
+
+# 🧠 Cache / temp files
+.cache/
+tmp/
+temp/
+
+# 📊 Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# 🧾 SQLite databases
+*.db
+
+# 🧪 Misc
+*.bak
+*.tmp
